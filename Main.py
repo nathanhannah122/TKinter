@@ -59,12 +59,12 @@ def complete():
     if final_amount == 1:                                                       # gets paint selection
         price = ans * 1.75                                                      # calculates depending on amount for paint
         output.insert('6.0', price)                                             # inserts price
-        output.insert('6.0', 'Premium       +£')
+        output.insert('6.0', 'Premium       + £')
         output.insert('6.0', 'Paint: ')
     elif final_amount == 3:                                                     # gets paint selection
         price = ans * 1                                                         # calculates depending on amount for paint
         output.insert('6.0', price)
-        output.insert('6.0', 'Standard      +£')
+        output.insert('6.0', 'Standard      + £')
         output.insert('6.0', 'Paint: ')
     elif final_amount == 2:                                                     # gets paint selection
         price = ans * 0.45                                                      # calculates depending on amount for paint
