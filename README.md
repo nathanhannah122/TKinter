@@ -14,17 +14,17 @@ This program prevents users from not filling in the required fields before the s
 ----------------------------------------------------------------------
 **Requires**
 - Python 3.0 
-- Tkinter
+- Tkinter (installed with python3 install)
 ----------------------------------------------------------------------
 
 **GUI**
 
-![Tkinter capture](https://user-images.githubusercontent.com/74415841/105636193-29231080-5e5f-11eb-8b74-a253daaa82bb.PNG)
+![Tkinter template v1 1](https://user-images.githubusercontent.com/74415841/107156724-f2c5b500-6977-11eb-8fae-bb7185295e67.PNG)
 
 
 **GUI with data**
 
-![Tkinter complete capture](https://user-images.githubusercontent.com/74415841/105636399-2d036280-5e60-11eb-8076-6cbe7c1df82e.PNG)
+![Tkinter complete v1 1](https://user-images.githubusercontent.com/74415841/107156715-e3466c00-6977-11eb-90ef-0bf265b4ad45.PNG)
 
 **Installing TKinter using Pycharm**
 
@@ -35,9 +35,4 @@ This program prevents users from not filling in the required fields before the s
 - Select version needed (latest)
 - Select 'install package' at bottom left of the screen
 
-**Installing using terminal** 
-
-pip install (package name)
-
-e.g `pip install TKinter`
 
